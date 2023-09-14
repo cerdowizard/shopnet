@@ -1,0 +1,2198 @@
+[
+    {
+        "id": "2675028481-725",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79218723_001_s?fit=constrain&hei=56&qlt=75",
+                "name": "black"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79629721_066_s?fit=constrain&hei=56&qlt=75",
+                "name": "Blue"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79218723_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 69.0,
+        "sales_price": 19.99,
+        "product_name": "UO Mila Sequin Strappy-Back Mini Dress",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-726",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79218723_001_s?fit=constrain&hei=56&qlt=75",
+                "name": "Lime"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79218723_040_s?fit=constrain&hei=56&qlt=75",
+                "name": "Black"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79790010_034_s?fit=constrain&hei=56&qlt=75",
+                "name": "White"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79790010_034_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 69.0,
+        "sales_price": 19.95,
+        "product_name": "UO Paige Stud Mini Baguette Bag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-728",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79790010_001_s?fit=constrain&hei=56&qlt=75",
+                "name": "White"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79790010_010_s?fit=constrain&hei=56&qlt=75",
+                "name": "Yellow"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78903135_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 49.0,
+        "sales_price": 9.99,
+        "product_name": "UO Lara Zip Tall Boot",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-729",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80187792_070_s?fit=constrain&hei=56&qlt=75",
+                "name": "Silver + Turquoise"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79972535_004_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 20.0,
+        "sales_price": 9.99,
+        "product_name": "Sweater Corset Belt",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-730",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78766227_027_s?fit=constrain&hei=56&qlt=75",
+                "name": "black"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80187834_007_s?fit=constrain&hei=56&qlt=75",
+                "name": "blue"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79199980_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 30.0,
+        "sales_price": 14.99,
+        "product_name": "UO Kat Sparkly Cutout Jumpsuit",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-731",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78766227_007_s?fit=constrain&hei=56&qlt=75",
+                "name": "white"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79630356_040_s?fit=constrain&hei=56&qlt=75",
+                "name": "black"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79630356_040_s?fit=constrain&hei=56&qlt=75",
+                "name": "Pink"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78766227_027_b?$medium$&qlt=80&fit=constrain\n"
+        ],
+        "retail_price": 59.0,
+        "sales_price": 9.95,
+        "product_name": "UO Kristy Disco Metallic Mini Dress",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-732",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79630356_007_s?fit=constrain&hei=56&qlt=75",
+                "name": "Light Blue"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78903135_001_s?fit=constrain&hei=56&qlt=75",
+                "name": "Silver"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80187834_007_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 49.0,
+        "sales_price": 19.95,
+        "product_name": "Indy Heart Charm Layering Necklace",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-733",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78955606_001_s?fit=constrain&hei=56&qlt=75",
+                "name": "black"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79630356_040_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 139.0,
+        "sales_price": 49.99,
+        "product_name": "Bryn Puffy Mini Tote Bag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-734",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78955606_040_s?fit=constrain&hei=56&qlt=75",
+                "name": "Black Multi"
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79980298_007_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80187792_007_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 59.0,
+        "sales_price": 34.99,
+        "product_name": "Delaney Flower Choker",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-735",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79980298_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79980298_066_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79020145_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79394870_080_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=720",
+                "name": "Orange"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78523305_009_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 69.0,
+        "sales_price": 24.99,
+        "product_name": "Motel Trubi Strappy Jumpsuit",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-736",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69124931_011_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79980298_007_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 99.0,
+        "sales_price": 9.99,
+        "product_name": "Gaia Chainmail Shoulder Bag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-737",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69124931_087_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69124931_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69124931_006_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79124475_086_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 10.0,
+        "sales_price": 39.99,
+        "product_name": "Out From Under Nina Cutout Tank Top",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-738",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78523305_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/64572506_065_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 85.0,
+        "sales_price": 14.95,
+        "product_name": "UO Lexi Velvet Cowl Neck Top",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-739",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/64572506_065_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79919932_093_b?$medium$&qlt=80&fit=constrain\n"
+        ],
+        "retail_price": 69.0,
+        "sales_price": 69.99,
+        "product_name": "BDG Low-Rise Tapered Baggy Jean - Distressed Print",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-740",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79972535_004_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79972535_014_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69124931_011_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 39.0,
+        "sales_price": 19.99,
+        "product_name": "Faye Jersey Knit Beanie",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-741",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79124475_086_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78955606_001_b?$medium$&qlt=80&fit=constrain\n"
+        ],
+        "retail_price": 29.0,
+        "sales_price": 24.95,
+        "product_name": "Out From Under Sweet Nothings Bustier",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-742",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79483277_003_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79483277_014_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79483277_055_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79020145_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 55.0,
+        "sales_price": 9.99,
+        "product_name": "UO Dina Faux Leather Slim Pant",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-743",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79196325_049_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79196325_054_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79196325_069_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80233364_066_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 35.0,
+        "sales_price": 19.95,
+        "product_name": "Gorillaz Cropped Short Sleeve Sweatshirt",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-744",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80233364_066_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/81024978_048_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 75.0,
+        "sales_price": 29.99,
+        "product_name": "Little Miss On Her Way Baby Tee",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-745",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78668787_004_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78668787_020_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79196325_049_b?$medium$&qlt=80&fit=constrain\n"
+        ],
+        "retail_price": 149.0,
+        "sales_price": 9.95,
+        "product_name": "UO Sophia Stitched Corset Cami",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-746",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79919932_093_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79379780_053_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 129.0,
+        "sales_price": 9.99,
+        "product_name": "UO Jade Cutout Tube Top",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-747",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78873916_010_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78873916_060_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78873916_050_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79442711_040_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 65.0,
+        "sales_price": 29.99,
+        "product_name": "UO Ulla Cutout Sweater",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-748",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79155958_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79155958_049_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79629846_034_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 64.00,
+        "sales_price": 19.99,
+        "product_name": "Bryn Puffy Nylon Crossbody Bag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-749",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79477832_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79477832_066_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79155958_009_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 39.0,
+        "sales_price": 34.99,
+        "product_name": "UO Cassie Satin Strappy Mini Dress",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-750",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79483277_087_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79477832_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 55.0,
+        "sales_price": 39.95,
+        "product_name": "UO Eva Ruched Cami",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-751",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79629846_034_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79629846_007_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79147328_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 39.0,
+        "sales_price": 44.99,
+        "product_name": "Out From Under Sweet Dreams Seamed Short",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-752",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69755825_061_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69755825_031_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69755825_061_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 88.0,
+        "sales_price": 19.95,
+        "product_name": "Verloop Polder Colorblock Hooded Scarf",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-753",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/81024978_048_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79789954_035_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 35.0,
+        "sales_price": 19.99,
+        "product_name": "Remy Soft Suede Baguette Bag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-754",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79442711_040_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79442711_053_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79629887_007_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 54,
+        "sales_price": 29.99,
+        "product_name": "Bryn Puffy Tote Bag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-755",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79379780_053_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79379780_060_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79685277_004_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 29.0,
+        "sales_price": 14.95,
+        "product_name": "UO Sparkly Hanky Hem Cami",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-756",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79560918_005_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79560918_066_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79560918_070_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79483277_003_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 59.0,
+        "sales_price": 44.99,
+        "product_name": "Out From Under Colette Ribbed Stirrup Legging",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-757",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79685277_004_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79685277_042_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79685277_053_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79685277_070_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78873916_010_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 39.0,
+        "sales_price": 19.99,
+        "product_name": "Out From Under Prism Sheer Tulle Corset",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-758",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78830916_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78830916_029_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78830916_093_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78668787_004_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 79.0,
+        "sales_price": 9.95,
+        "product_name": "UO Leigh Oversized Faux Suede Sherpa Jacket",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-759",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79483111_048_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79483111_012_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "",
+                "name": "https://images.urbndata.com/is/image/UrbanOutfitters/79483111_022_s?fit=constrain&hei=56&qlt=75"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78830916_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 20.0,
+        "sales_price": 4.95,
+        "product_name": "BDG Ankle-Zip Skinny Jean",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-760",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/50228204_007_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/50228204_018_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/50228204_048_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/50228204_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78901709_001_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=640"
+        ],
+        "retail_price": 39.0,
+        "sales_price": 19.99,
+        "product_name": "Out From Under That Girl Ribbed Bra",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-762",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79382271_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79382271_015_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79560918_005_b?$xlarge$&fit=constrain&fmt=webp&qlt=80&wid=640"
+        ],
+        "retail_price": 29.0,
+        "sales_price": 9.95,
+        "product_name": "UO Zoey Ruched Mule Heel",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2375028481-725",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79147328_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79147328_012_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79147328_053_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79147328_062_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79630380_060_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 59.0,
+        "sales_price": 9.95,
+        "product_name": "UO Zoe Long Sleeve Cutout Top",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2375028481-726",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79630380_060_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/50228204_007_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 8.0,
+        "sales_price": 29.99,
+        "product_name": "Spa Day Terry Headband",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2375028481-729",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79629887_007_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78757960_020_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 29.0,
+        "sales_price": 34.99,
+        "product_name": "UO Casey Sherpa Hooded Zip-Up Jacket",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2375028481-730",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/70811930_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79382271_009_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 39.0,
+        "sales_price": 9.95,
+        "product_name": "UO Sammy Sparkle Mini Dress",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2375028481-731",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78901709_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78901709_010_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78901709_034_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79129003_012_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 149.0,
+        "sales_price": 9.95,
+        "product_name": "Out From Under Sweet Dreams Seamed Pant",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2375028481-732",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79789954_035_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80600919_009_b?$medium$&fit=constrain&fmt=webp&hei=1046&qlt=80&wid=698"
+        ],
+        "retail_price": 69.0,
+        "sales_price": 19.95,
+        "product_name": "Korn Tie-Dye Baby Tee",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-734",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80600919_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80991797_066_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 35.0,
+        "sales_price": 49.99,
+        "product_name": "UO Bow Halter Top",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-735",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79129003_012_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79129003_053_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79129003_021_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79483277_087_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 99.0,
+        "sales_price": 4.95,
+        "product_name": "Out From Under Colette Ribbed Stirrup Fitted Legging",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-736",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80269533_030_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80269533_066_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79001186_009_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 75.0,
+        "sales_price": 59.99,
+        "product_name": "Kiss The Sky Floral Long Sleeve Romper",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-737",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78658754_002_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78658754_010_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78658754_032_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/67064527_015_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 45.0,
+        "sales_price": 29.99,
+        "product_name": "UO Y2K Printed Cargo Pant",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-738",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79196838_107_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79483111_048_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 49.0,
+        "sales_price": 19.99,
+        "product_name": "Out From Under Bethany Fleece Flare Pant",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-739",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69481570_040_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69481570_845_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79198917_040_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 20.0,
+        "sales_price": 19.95,
+        "product_name": "UO Tide Cropped Hoodie Sweatshirt",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-740",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78938909_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78938909_012_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78938909_061_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/70811930_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 49.0,
+        "sales_price": 9.99,
+        "product_name": "Market UO Exclusive T-Shirt Patch Hoodie Sweatshirt",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-741",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79001186_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80269533_030_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 79.0,
+        "sales_price": 14.95,
+        "product_name": "Zoe Statement Beaded Post Earring",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-742",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79356754_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79356754_011_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69481570_040_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 15.0,
+        "sales_price": 29.99,
+        "product_name": "Anya Checkered Tight",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-743",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69771640_020_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79196838_107_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 44.00,
+        "sales_price": 1.95,
+        "product_name": "BDG Cutoff Waistband Split Hem Jean",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-744",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80269434_060_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80269434_080_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79501789_061_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 79.0,
+        "sales_price": 24.99,
+        "product_name": "UO Lost On You Lace Cropped Top & Midi Skirt Set",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-745",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79515177_049_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79515177_060_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80269434_060_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 79.0,
+        "sales_price": 39.99,
+        "product_name": "Vida Gem Post Earring",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-746",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78869203_088_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79515177_049_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 89.0,
+        "sales_price": 19.95,
+        "product_name": "UO Ziggy Cold-Shoulder Corset Top",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-747",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78869450_048_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78869203_088_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 20.0,
+        "sales_price": 49.99,
+        "product_name": "Out From Under Happy Daze Icon Cheeky Seamless Undie",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-748",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69970697_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69782530_034_b?$medium$&qlt=80&fit=constrain\n"
+        ],
+        "retail_price": 39.0,
+        "sales_price": 9.99,
+        "product_name": "MLE Cece Brocade Handbag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-749",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78777760_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78938909_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 10.0,
+        "sales_price": 9.95,
+        "product_name": "UO Lace Asymmetrical Mini Skirt",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-750",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79500997_049_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79500997_266_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69755841_086_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 10.0,
+        "sales_price": 4.99,
+        "product_name": "Verloop Fuzzy Faux Fur Hood Balaclava",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-751",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/69755841_086_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79356754_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 80.0,
+        "sales_price": 4.99,
+        "product_name": "UO Kelsey Cropped Hooded Sweater",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-752",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "top",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79501789_061_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78658754_002_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 69.0,
+        "sales_price": 49.99,
+        "product_name": "KOTO 04.030 Henley Hem Cocoon Thermal Long Sleeve Shirt",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-753",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80230717_010_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79790051_020_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 35.0,
+        "sales_price": 34.99,
+        "product_name": "Remy Calf Hair Baguette Bag",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-754",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/78418886_001_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/70755673_035_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69771640_020_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 80.0,
+        "sales_price": 19.99,
+        "product_name": "BDG Eliza Hooded Cropped Vest",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-755",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79011631_015_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79258190_004_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79258190_029_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78869450_048_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 139.0,
+        "sales_price": 39.99,
+        "product_name": "Out From Under Happy Daze Icon Seamless Boyshort",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-756",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/64788870_065_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/69902229_086_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 59.0,
+        "sales_price": 69.99,
+        "product_name": "Ellie Knit Beanie",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-757",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "bottom",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/64788870_040_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/64788870_005_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78777760_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 75.0,
+        "sales_price": 29.99,
+        "product_name": "UO Bruna Mesh Layered Mini Dress",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-758",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80400146_030_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78169349_015_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 15.0,
+        "sales_price": 1.95,
+        "product_name": "Primecut Playground Shearling Backpack",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-759",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/80400146_066_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            },
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79198917_040_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79011631_015_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 69.0,
+        "sales_price": 34.99,
+        "product_name": "BDG Forest Sherpa Hooded Zip-Up Jacket",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-760",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79001061_009_s?fit=constrain&hei=56&qlt=75",
+                "name": ""
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/70755673_035_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 79.0,
+        "sales_price": 39.99,
+        "product_name": "Toby Slouchy Beanie",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-761",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79498150_045_b?$medium$&qlt=80&fit=constrain",
+                "name": "Purple"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/80399876_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 10.0,
+        "sales_price": 4.99,
+        "product_name": "Trixie Rhinestone Leather Statement Necklace",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-763",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79498150_045_b?$medium$&qlt=80&fit=constrain",
+                "name": "Purple"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/78418886_001_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 29.0,
+        "sales_price": 14.99,
+        "product_name": "Glamorous Velvet Floral Flare Pant",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    },
+    {
+        "id": "2675028481-764",
+        "aesthetic": "The Clean Girl",
+        "top_bottom_accessories": "accessories",
+        "available_for_website": false,
+        "sizes": [
+            "5",
+            "6",
+            "7"
+        ],
+        "colors": [
+            {
+                "image_url": "https://images.urbndata.com/is/image/UrbanOutfitters/79498150_045_b?$medium$&qlt=80&fit=constrain",
+                "name": "Purple"
+            }
+        ],
+        "product_image_urls": [
+            "https://images.urbndata.com/is/image/UrbanOutfitters/79258190_004_b?$medium$&qlt=80&fit=constrain"
+        ],
+        "retail_price": 30.0,
+        "sales_price": 29.99,
+        "product_name": "BDG Caleb Pullover Sweater",
+        "brand": "Urban Outfitters",
+        "website_url": "https://www.urbanoutfitters.com/womens-clothing-sale",
+        "category": null,
+        "product_url": "https://www.urbanoutfitters.com/womens-clothing-sale"
+    }
+]

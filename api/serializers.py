@@ -1,6 +1,6 @@
 from django.contrib.auth.hashers import make_password
 from rest_framework import serializers
-from api.models import User, SecretTokenView
+from api.models import User, SecretTokenView, Product, Category
 from django.contrib.auth import authenticate
 
 
@@ -86,4 +86,18 @@ class CreateSecretTokenSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = SecretTokenView
+        fields = '__all__'
+
+
+class ProductSerializer(serializers.ModelSerializer):
+    image = serializers.ImageField()
+
+    class Meta:
+        model = Product
+        fields = '__all__'
+
+
+class CategorySerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Category
         fields = '__all__'

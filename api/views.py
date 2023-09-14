@@ -1,15 +1,12 @@
-from django.http import Http404
-from django.shortcuts import render
 from drf_yasg.utils import swagger_auto_schema
 from rest_framework import generics, status
+from rest_framework import permissions
+from rest_framework.parsers import MultiPartParser, FormParser
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
-from rest_framework import permissions
-from rest_framework.pagination import PageNumberPagination
-from api.models import User
-from rest_framework import generics, status
-from rest_framework.response import Response
 from rest_framework_simplejwt.tokens import RefreshToken
+
+from api.models import Category
 from api.serializers import *
 
 
@@ -21,7 +18,7 @@ class UserRegistrationView(generics.CreateAPIView):
 
     @swagger_auto_schema(
         request_body=UserRegistrationSerializer,
-        tags={"Authentication"},
+        tags=["Authentication"],
         responses={
             status.HTTP_201_CREATED: "User registered successfully!",
             status.HTTP_400_BAD_REQUEST: "Bad Request",
@@ -150,5 +147,36 @@ class CreateSecretTokenView(generics.GenericAPIView):
         instance = self.serializer_class(data=request.data)
         if instance.is_valid(raise_exception=True):
             instance.save(user=user)
+            return Response({"success": True, "data": instance.data}, status=status.HTTP_201_CREATED)
+        return Response({"success": False, "data": instance.errors}, status=status.HTTP_400_BAD_REQUEST)
+
+
+class CreateCategoryView(generics.ListCreateAPIView):
+    queryset = Category.objects.all().order_by('-created_at')
+    serializer_class = CategorySerializer
+
+
+    def post(self, request, *args, **kwargs):
+        instance = self.serializer_class(data=request.data)
+        if instance.is_valid(raise_exception=True):
+            instance.save()
+            return Response({"success": True, "data": instance.data}, status=status.HTTP_201_CREATED)
+        return Response({"success": False, "data": instance.errors}, status=status.HTTP_400_BAD_REQUEST)
+
+
+class CreateProductServiceView(generics.ListCreateAPIView):
+    queryset = Product.objects.all().order_by('-created_at')
+    serializer_class = ProductSerializer
+    parser_classes = (MultiPartParser, FormParser)
+
+
+    def post(self, request, *args, **kwargs):
+        instance = self.serializer_class(data=request.data)
+        categories_id = request.data.get('category')
+        cat_object = Category.objects.filter(id=categories_id)
+        if not cat_object:
+            return Response({"status": False, "message": "Category not found"})
+        if instance.is_valid(raise_exception=True):
+            instance.save()
             return Response({"success": True, "data": instance.data}, status=status.HTTP_201_CREATED)
         return Response({"success": False, "data": instance.errors}, status=status.HTTP_400_BAD_REQUEST)

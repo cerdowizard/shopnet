@@ -164,6 +164,60 @@ class CreateCategoryView(generics.ListCreateAPIView):
         return Response({"success": False, "data": instance.errors}, status=status.HTTP_400_BAD_REQUEST)
 
 
+class UpdateCreateCategoryView(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Category.objects.all().order_by('-created_at')
+    serializer_class = CategorySerializer
+    parser_classes = (MultiPartParser, FormParser)
+
+    def get(self, request, pk, *args, **kwargs):
+        pro_obj = get_object_or_404(Category, pk=pk)
+        if not pro_obj:
+            return Response({
+                "success": False,
+                "message": "Category not found"
+            }, status=status.HTTP_404_NOT_FOUND)
+        serialized_data = self.serializer_class(pro_obj).data
+        if pro_obj:
+            return Response({
+                "status": True,
+                "payload": serialized_data
+            }, status=status.HTTP_200_OK)
+
+    def patch(self, request, pk, *args, **kwargs):
+        pro_obj = get_object_or_404(Category, pk=pk)
+        if not pro_obj:
+            return Response({
+                "success": False,
+                "message": "Category not found"
+            }, status=status.HTTP_404_NOT_FOUND)
+        serializer = self.serializer_class(data=request.data, partial=True)
+        if serializer.is_valid(raise_exception=True):
+            serializer.save()
+            return Response({
+                "success": True,
+                "message": "Category saved successfully",
+                "payload": serializer.data
+            })
+        return Response({
+            "success": False,
+            "message": "Product not saved",
+            "payload": serializer.errors
+        })
+
+    def delete(self, request, pk, *args, **kwargs):
+        pro_obj = get_object_or_404(Category, pk=pk)
+        if not pro_obj:
+            return Response({
+                "success": False,
+                "message": "Category not found"
+            }, status=status.HTTP_404_NOT_FOUND)
+        pro_obj.delete()
+        return Response({
+            "success": True,
+            "message": "Category deleted successfully"
+        }, status=status.HTTP_404_NOT_FOUND)
+
+
 class CreateProductServiceView(generics.ListCreateAPIView):
     queryset = Product.objects.all().order_by('-created_at')
     serializer_class = ProductSerializer
@@ -206,7 +260,7 @@ class UpdateProductServiceView(generics.RetrieveUpdateDestroyAPIView):
             return Response({
                 "success": False,
                 "message": "Product not found"
-            },status=status.HTTP_404_NOT_FOUND)
+            }, status=status.HTTP_404_NOT_FOUND)
         serializer = self.serializer_class(data=request.data, partial=True)
         if serializer.is_valid(raise_exception=True):
             serializer.save()

@@ -10,5 +10,6 @@ urlpatterns = [
     path('password-reset/', views.PasswordResetView.as_view(), name='password-reset'),
     path('product/', views.CreateProductServiceView.as_view(), name='product'),
     path('category/', views.CreateCategoryView.as_view(), name='category'),
+    path('category/update/<str:pk>/', views.UpdateCreateCategoryView.as_view(), name='category'),
     path('product/update/<str:pk>/', views.UpdateProductServiceView.as_view(), name='category-update')
 ]

@@ -1,3 +1,4 @@
+from django.shortcuts import get_object_or_404
 from drf_yasg.utils import swagger_auto_schema
 from rest_framework import generics, status
 from rest_framework import permissions
@@ -155,7 +156,6 @@ class CreateCategoryView(generics.ListCreateAPIView):
     queryset = Category.objects.all().order_by('-created_at')
     serializer_class = CategorySerializer
 
-
     def post(self, request, *args, **kwargs):
         instance = self.serializer_class(data=request.data)
         if instance.is_valid(raise_exception=True):
@@ -169,7 +169,6 @@ class CreateProductServiceView(generics.ListCreateAPIView):
     serializer_class = ProductSerializer
     parser_classes = (MultiPartParser, FormParser)
 
-
     def post(self, request, *args, **kwargs):
         instance = self.serializer_class(data=request.data)
         categories_id = request.data.get('category')
@@ -180,3 +179,57 @@ class CreateProductServiceView(generics.ListCreateAPIView):
             instance.save()
             return Response({"success": True, "data": instance.data}, status=status.HTTP_201_CREATED)
         return Response({"success": False, "data": instance.errors}, status=status.HTTP_400_BAD_REQUEST)
+
+
+class UpdateProductServiceView(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Product.objects.all().order_by('-created_at')
+    serializer_class = ProductSerializer
+    parser_classes = (MultiPartParser, FormParser)
+
+    def get(self, request, pk, *args, **kwargs):
+        pro_obj = get_object_or_404(Product, pk=pk)
+        if not pro_obj:
+            return Response({
+                "success": False,
+                "message": "Product not found"
+            }, status=status.HTTP_404_NOT_FOUND)
+        serialized_data = self.serializer_class(pro_obj).data
+        if pro_obj:
+            return Response({
+                "status": True,
+                "payload": serialized_data
+            }, status=status.HTTP_200_OK)
+
+    def patch(self, request, pk, *args, **kwargs):
+        pro_obj = get_object_or_404(Product, pk=pk)
+        if not pro_obj:
+            return Response({
+                "success": False,
+                "message": "Product not found"
+            },status=status.HTTP_404_NOT_FOUND)
+        serializer = self.serializer_class(data=request.data, partial=True)
+        if serializer.is_valid(raise_exception=True):
+            serializer.save()
+            return Response({
+                "success": True,
+                "message": "Product saved successfully",
+                "payload": serializer.data
+            })
+        return Response({
+            "success": False,
+            "message": "Product not saved",
+            "payload": serializer.errors
+        })
+
+    def delete(self, request, pk, *args, **kwargs):
+        pro_obj = get_object_or_404(Product, pk=pk)
+        if not pro_obj:
+            return Response({
+                "success": False,
+                "message": "Product not found"
+            }, status=status.HTTP_404_NOT_FOUND)
+        pro_obj.delete()
+        return Response({
+            "success": True,
+            "message": "Product deleted successfully"
+        }, status=status.HTTP_404_NOT_FOUND)

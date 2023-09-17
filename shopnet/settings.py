@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-s*))5a9z!zk_tddl59lqcnepz_c0o1jl*s&*t9o7k7#ryu39t*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['shopnet-svf5.onrender.com']
 
 
 # Application definition

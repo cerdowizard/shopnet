@@ -1,4 +1,6 @@
 import uuid
+from _decimal import Decimal
+
 from django.db import models
 from django.contrib.auth.models import BaseUserManager, AbstractUser
 
@@ -71,6 +73,15 @@ class Cart(models.Model):
 
     def __str__(self):
         return f"Cart for {self.user.username}"
+
+    def save(self, *args, **kwargs):
+        # Calculate the total price by summing up the total prices of all cart items
+        total_price = Decimal(0)
+        cart_items = self.cartitem_set.all()  # Get all cart items for this cart
+        for cart_item in cart_items:
+            total_price += cart_item.total_price
+        self.total_price = total_price
+        super().save(*args, **kwargs)  # Call the original save method to save the updated total_price
 
 
 class CartItem(models.Model):

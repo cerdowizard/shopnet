@@ -155,6 +155,7 @@ class CreateSecretTokenView(generics.GenericAPIView):
 class CreateCategoryView(generics.ListCreateAPIView):
     queryset = Category.objects.all().order_by('-created_at')
     serializer_class = CategorySerializer
+    permission_classes = [permissions.IsAdminUser]
 
     def post(self, request, *args, **kwargs):
         instance = self.serializer_class(data=request.data)

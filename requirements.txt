@@ -9,7 +9,7 @@ Django >= 3
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
 drf-yasg==1.21.7
-Faker==19.3.0
+Faker
 frozenlist==1.4.0
 generics==6.0.0
 gunicorn==21.2.0
